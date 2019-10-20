@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Neha Thakur
+@author: Asish Yadav
 """
 
 dicti = {1:'bed', 2:'bath' , 3:'bedbath' , 4:'and' , 5:'beyond'}
